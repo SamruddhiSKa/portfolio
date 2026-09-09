@@ -1,0 +1,114 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3389 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(SAMRUDDHI KAULE) Tj T*
+(Pune, Maharashtra, India  |  kaulesamruddhi@gmail.com  |  +91 79728 43480  |) Tj T*
+(linkedin.com/in/samruddhi-kaule  |  github.com/SamruddhiSKa) Tj T*
+(AI/ML Developer | Full-Stack Developer) Tj T*
+(SUMMARY) Tj T*
+(Final-year Computer Science undergraduate with a strong foundation in Artificial) Tj T*
+(Intelligence and Machine Learning hands-on experience in data-driven problem solving,) Tj T*
+(machine learning workflows, application development, and research, supported by practical) Tj T*
+(technical work. Analytical, adaptable, and self-driven, with a strong ability to learn new) Tj T*
+(technologies and translate concepts into practical solutions.) Tj T*
+(SKILLS) Tj T*
+(Programming Languages: Python, SQL, C, C++) Tj T*
+(Machine Learning & AI: PyTorch, Scikit-learn, NLP, Computer Vision, Recommendation Systems) Tj T*
+(Data & Analytics: Pandas, NumPy, Feature Engineering, Power BI) Tj T*
+(Frameworks & Tools: FastAPI, Django, OpenCV, Git) Tj T*
+(Web & Databases: React, REST APIs, PostgreSQL, MongoDB) Tj T*
+(PROJECTS) Tj T*
+(Real-Time Hand Gesture Recognition SystemGitHub) Tj T*
+(Developed a real-time gesture recognition system classifying 36 alphabet/digit gestures from) Tj T*
+(42 normalized hand-landmark features, achieving 95.87% accuracy and 0.952 Macro F1 on 653) Tj T*
+(held-out samples.) Tj T*
+(Built a position- and scale-invariant feature normalization pipeline and trained a Random) Tj T*
+(Forest ensemble on 3,263 samples, achieving a 91.27 percentage-point lift over the majority-) Tj T*
+(class baseline.) Tj T*
+(Optimized inference for low-latency deployment, achieving 3.21 ms median and 5.58 ms P95) Tj T*
+(latency at 275 predictions/second on precomputed landmarks.) Tj T*
+(CineMatch ? Hybrid Movie Recommendation SystemGitHub) Tj T*
+(Built a hybrid recommender using TF-IDF \(Scikit-learn\), SVD \(Surprise\), and NCF \(PyTorch\) to) Tj T*
+(address cold-start and sparsity.) Tj T*
+(Added context-aware personalization based on user mood and time-of-day, and used FAISS for) Tj T*
+(sub-millisecond real-time similarity search.) Tj T*
+(Developed a FastAPI backend with a React frontend and NLP-based chatbot for interaction;) Tj T*
+(evaluated using RMSE \(~1.04\), Precision@10, and Hit Ratio@10, improving over standalone) Tj T*
+(models.) Tj T*
+(RetailX ? Sales AnalyticsGithub) Tj T*
+(Built an end-to-end sales analytics pipeline processing 32K+ transactions, 20K orders, 2,999) Tj T*
+(customers, and 500 products using Python, SQL, ML, and Power BI.) Tj T*
+(Cleaned and validated data by removing 159 duplicates, resolving 966 missing values, and) Tj T*
+(correcting 65 extreme discounts, retaining 99.51% of records.) Tj T*
+(Developed K-Means customer segmentation using 6 behavioral features, identifying 4 customer) Tj T*
+(segments, including one segment representing 23.27% of customers and 38.01% of revenue.) Tj T*
+(PROFESSIONAL EXPERIENCE) Tj T*
+(AI-ML Virtual Intern ? Google for Developers \(EduSkills\)Apr 2025 ? Jun 2025) Tj T*
+(Performed data preprocessing, feature engineering, and model training on real-world datasets) Tj T*
+(using Python.) Tj T*
+(Applied machine learning techniques for classification and prediction tasks, evaluating) Tj T*
+(performance using standard metrics.) Tj T*
+(Implemented end-to-end ML workflows including data cleaning, model building, and result) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 895 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(interpretation.) Tj T*
+(Data Science Virtual Internship ? Siemens \(EduSkills\)Apr 2026 ? Jun 2026) Tj T*
+(Completed a 10-week virtual internship covering data science, machine learning, and data) Tj T*
+(analytics concepts.) Tj T*
+(Used the RapidMiner platform for data preprocessing, visualization, model building, and) Tj T*
+(evaluation through hands-on assessments.) Tj T*
+(EDUCATION) Tj T*
+(MIT-ADT University, MIT School of ComputingExpected May 2027) Tj T*
+(B.Tech in Computer Science \(AI & Edge Computing\) ? CGPA: 8.47 / 10) Tj T*
+(CERTIFICATIONS & ADDITIONAL INFORMATION) Tj T*
+(Machine Learning I \(Columbia\) ? AI Agents \(Google, via Kaggle\) ? AI Principles with Edge) Tj T*
+(Computing \(Coursera\) ? Power BI Bootcamp \(Nucleus, SSCBS\)) Tj T*
+(Languages: English, Hindi, Marathi, Basic German) Tj T*
+(Interests: Basketball, Tennis, Reading) Tj T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000003638 00000 n 
+0000003764 00000 n 
+0000004710 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4836
+%%EOF
